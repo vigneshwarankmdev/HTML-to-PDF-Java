@@ -1,0 +1,510 @@
+[0627/182316.140:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000664000D4600: set chrome proxy config service to 00000664000BC380
+[0627/182316.160:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/182316.160:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000066400059680])
+[0627/182316.160:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/182316.160:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000066400059680]))
+[0627/182316.180:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/182317.556:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000664000D7C00: set chrome proxy config service to 00000664001D9240
+[0627/182317.933:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/182317.946:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/182317.946:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/182317.949:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/182317.951:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/182317.970:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/182317.970:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/182317.970:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/182317.980:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000000490020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/182317.981:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/182317.981:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/182317.988:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/182317.992:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/182317.997:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/182317.997:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/182317.998:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/182321.238:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=Hn43WVZmKLSZnkFQJsRcnP77ZH
+[0627/182321.239:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=BqZ3WV3jShHsqDvHQ4wTknPjVN
+[0627/182321.239:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=7hZ3WVLPR73rFt37Tn8f2qnktq
+[0627/182321.731:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=Hn43WVZmKLSZnkFQJsRcnP77ZH
+[0627/182321.752:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=BqZ3WV3jShHsqDvHQ4wTknPjVN
+[0627/182321.788:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=7hZ3WVLPR73rFt37Tn8f2qnktq
+[0627/182321.907:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 00000049001293E8:LayoutNGBlockFlow DIV class='logo' moved from 879,888.203 120x20.7969 to 983,887.703 16x21.7969 (visible from 879,888 120x21 to 983,888 16x22)
+[0627/182321.907:VERBOSE1:layout_shift_tracker.cc(545)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", viewport was 0.193481% impacted with distance fraction 0.08125 and subframe weighting factor 1
+[0627/182321.907:VERBOSE1:layout_shift_tracker.cc(627)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", layout shift of 0.000157204 reported; cumulative score is 0.000157204
+[0627/182321.968:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/182322.120:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/182322.327:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 1 samples, mean = 17.0 (flags = 0x1)
+0   ... 
+16  -O                                                                        (1 = 100.0%) {0.0%}
+21  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+
+[0627/183043.907:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000003B0000D0600: set chrome proxy config service to 000003B0000A4380
+[0627/183043.945:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/183043.948:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000003B000060F00])
+[0627/183043.948:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/183043.948:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000003B000060F00]))
+[0627/183044.003:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/183044.013:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/183044.110:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183045.537:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000003B0000D1500: set chrome proxy config service to 000003B0001D4280
+[0627/183045.576:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183045.657:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183045.657:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183045.752:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/183045.753:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/183045.753:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/183045.804:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000076F0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/183045.804:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/183045.805:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/183045.831:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/183045.831:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/183045.836:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183045.837:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/183045.838:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/183047.244:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=NB43WVF2VFPbsNJ0HKSVBtBbLQ
+[0627/183047.258:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=V243WV55HF4bR2V1PjR6vSPZnr
+[0627/183047.294:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=ZQZ3WV36bnqs5P7f7nMWFM6nsR
+[0627/183047.591:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=NB43WVF2VFPbsNJ0HKSVBtBbLQ
+[0627/183047.601:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=V243WV55HF4bR2V1PjR6vSPZnr
+[0627/183047.601:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=ZQZ3WV36bnqs5P7f7nMWFM6nsR
+[0627/183047.742:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 0000076F001293E8:LayoutNGBlockFlow DIV class='logo' moved from 879,888.203 120x20.7969 to 983,887.703 16x21.7969 (visible from 879,888 120x21 to 983,888 16x22)
+[0627/183047.743:VERBOSE1:layout_shift_tracker.cc(545)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", viewport was 0.193481% impacted with distance fraction 0.08125 and subframe weighting factor 1
+[0627/183047.743:VERBOSE1:layout_shift_tracker.cc(627)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", layout shift of 0.000157204 reported; cumulative score is 0.000157204
+[0627/183047.772:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183047.962:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/183048.150:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 1 samples, mean = 14.0 (flags = 0x1)
+0   ... 
+12  -O                                                                        (1 = 100.0%) {0.0%}
+16  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+
+[0627/183103.637:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000788000D4600: set chrome proxy config service to 00000788000BC380
+[0627/183103.653:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/183103.653:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000078800059680])
+[0627/183103.653:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/183103.653:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000078800059680]))
+[0627/183103.671:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/183103.734:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/183103.820:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183105.200:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000788000D5500: set chrome proxy config service to 00000788001E8280
+[0627/183105.210:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183105.260:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183105.261:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183105.276:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/183105.277:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/183105.277:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/183105.283:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000005E10020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/183105.283:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/183105.284:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/183105.288:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/183105.290:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183105.294:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/183105.294:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/183105.294:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/183107.760:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=ZJk3WVZr2ZND6ZgFQnjZWZ0NgN
+[0627/183107.760:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=mHk3WV5bJ7W7qMRfWjs0j4NMZj
+[0627/183107.881:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=VZ43WVhPkQZR5Qj2J6zrD2Tt5r
+[0627/183108.098:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=ZJk3WVZr2ZND6ZgFQnjZWZ0NgN
+[0627/183108.112:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=mHk3WV5bJ7W7qMRfWjs0j4NMZj
+[0627/183108.303:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 000005E1001293E8:LayoutNGBlockFlow DIV class='logo' moved from 879,888.203 120x20.7969 to 983,887.703 16x21.7969 (visible from 879,888 120x21 to 983,888 16x22)
+[0627/183108.303:VERBOSE1:layout_shift_tracker.cc(545)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", viewport was 0.193481% impacted with distance fraction 0.08125 and subframe weighting factor 1
+[0627/183108.303:VERBOSE1:layout_shift_tracker.cc(627)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", layout shift of 0.000157204 reported; cumulative score is 0.000157204
+[0627/183108.471:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=VZ43WVhPkQZR5Qj2J6zrD2Tt5r
+[0627/183108.688:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183108.849:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/183108.970:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 1 samples, mean = 18.0 (flags = 0x1)
+0   ... 
+16  -O                                                                        (1 = 100.0%) {0.0%}
+21  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+
+[0627/183320.747:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000007B4000D4600: set chrome proxy config service to 000007B4000BC380
+[0627/183320.765:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/183320.765:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000007B400049680])
+[0627/183320.765:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/183320.765:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000007B400049680]))
+[0627/183320.786:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/183320.854:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/183320.982:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183322.746:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000007B4000D4C00: set chrome proxy config service to 000007B4000BD180
+[0627/183322.785:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183322.882:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183322.893:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183322.907:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/183322.908:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/183322.908:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/183322.915:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000006F50020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/183322.916:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/183322.916:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/183322.924:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/183322.927:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183322.933:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/183322.933:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/183322.933:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/183325.774:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183325.966:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://doh.opendns.com/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[0627/183325.967:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://doh.opendns.com/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[0627/183326.273:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/183326.407:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 1 samples, mean = 19.0 (flags = 0x1)
+0   ... 
+16  -O                                                                        (1 = 100.0%) {0.0%}
+21  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+
+[0627/183406.728:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000390000D4600: set chrome proxy config service to 00000390000BC380
+[0627/183406.738:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0627/183406.742:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/183406.742:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000039000035680])
+[0627/183406.742:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/183406.743:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000039000035680]))
+[0627/183406.757:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/183406.845:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/183406.952:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183406.954:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0627/183406.959:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0627/183408.317:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000390000D7300: set chrome proxy config service to 00000390001D8280
+[0627/183408.331:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183408.331:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0627/183408.398:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183408.410:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183408.529:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/183408.530:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/183408.530:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/183408.593:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000013B0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/183408.595:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/183408.596:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/183408.627:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/183408.627:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/183408.629:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183408.635:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/183408.637:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/183408.780:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 0000013B00125058:LayoutText #text moved from 25,389.188 974x19 to 25,389.188 974x19 (visible from 25,389 974x19 to 25,389 974x19)
+[0627/183408.782:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 343.141,389.188 to 330.359,389.188)
+[0627/183408.782:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 0000013B001250F8:LayoutText #text moved from 25,390.188 974x17 to 25,390.188 974x17 (visible from 25,390 974x17 to 25,390 974x17)
+[0627/183408.782:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 537.109,390.188 to 524.328,390.188)
+[0627/183408.782:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 0000013B001295A8:LayoutNGBlockFlow DIV class='logo' moved from 879,889.203 120x20.7969 to 983,888.703 16x21.7969 (visible from 879,889 120x21 to 983,889 16x22)
+[0627/183408.782:VERBOSE1:layout_shift_tracker.cc(545)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", viewport was 1.60538% impacted with distance fraction 0.08125 and subframe weighting factor 1
+[0627/183408.782:VERBOSE1:layout_shift_tracker.cc(627)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", layout shift of 0.00130437 reported; cumulative score is 0.00130437
+[0627/183408.806:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183409.024:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/183448.831:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000003C8000D4600: set chrome proxy config service to 000003C8000BC380
+[0627/183448.841:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0627/183448.844:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/183448.844:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000003C800049680])
+[0627/183448.845:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/183448.845:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000003C800049680]))
+[0627/183448.861:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/183448.901:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/183448.967:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183448.970:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0627/183448.972:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0627/183450.068:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000003C8000D7300: set chrome proxy config service to 000003C8001E8280
+[0627/183450.076:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/183450.077:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0627/183450.130:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183450.137:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/183450.152:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/183450.152:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/183450.152:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/183450.158:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000004BF0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/183450.159:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/183450.159:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/183450.162:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/183450.165:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183450.169:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/183450.169:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/183450.169:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/183450.231:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 000004BF001293E8:LayoutNGBlockFlow DIV class='logo' moved from 879,888.203 120x20.7969 to 983,888.703 16x21.7969 (visible from 879,888 120x21 to 983,889 16x22)
+[0627/183450.231:VERBOSE1:layout_shift_tracker.cc(545)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", viewport was 0.194702% impacted with distance fraction 0.08125 and subframe weighting factor 1
+[0627/183450.231:VERBOSE1:layout_shift_tracker.cc(627)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", layout shift of 0.000158195 reported; cumulative score is 0.000158195
+[0627/183450.241:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/183450.378:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/191506.224:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000000EC000D4600: set chrome proxy config service to 000000EC000BC380
+[0627/191506.242:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/191506.242:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000000EC00035680])
+[0627/191506.242:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/191506.242:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000000EC00035680]))
+[0627/191506.264:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/191506.314:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/191506.406:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/191507.883:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000000EC000D5500: set chrome proxy config service to 000000EC001E8280
+[0627/191507.917:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/191507.990:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/191507.990:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/191508.084:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/191508.085:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/191508.086:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/191508.136:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000003D10020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/191508.137:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/191508.138:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/191508.157:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/191508.159:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/191508.161:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/191508.164:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/191508.167:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/191510.152:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=F2Z3WVh04LnjPVr4JJWtvSrMfS
+[0627/191510.153:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=b5W3WVhFMN6ms4f7VRsRbkFPfq
+[0627/191510.153:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=Nbk3WVL5HsKSqKFMFMZ20LGFL6
+[0627/191510.416:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=F2Z3WVh04LnjPVr4JJWtvSrMfS
+[0627/191510.432:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=Nbk3WVL5HsKSqKFMFMZ20LGFL6
+[0627/191510.435:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=b5W3WVhFMN6ms4f7VRsRbkFPfq
+[0627/191510.550:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 000003D1001293E8:LayoutNGBlockFlow DIV class='logo' moved from 879,889.203 120x20.7969 to 983,888.703 16x21.7969 (visible from 879,889 120x21 to 983,889 16x22)
+[0627/191510.552:VERBOSE1:layout_shift_tracker.cc(545)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", viewport was 0.193481% impacted with distance fraction 0.08125 and subframe weighting factor 1
+[0627/191510.553:VERBOSE1:layout_shift_tracker.cc(627)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", layout shift of 0.000157204 reported; cumulative score is 0.000157204
+[0627/191510.571:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/191510.762:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/191510.863:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 1 samples, mean = 14.0 (flags = 0x1)
+0   ... 
+12  -O                                                                        (1 = 100.0%) {0.0%}
+16  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+
+[0627/191538.416:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000340000D4600: set chrome proxy config service to 00000340000BC380
+[0627/191538.430:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0627/191538.430:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000034000035680])
+[0627/191538.432:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0627/191538.432:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000034000035680]))
+[0627/191538.450:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0627/191538.503:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0627/191538.602:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/191540.031:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000340000D7300: set chrome proxy config service to 00000340001E8280
+[0627/191540.043:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0627/191540.104:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/191540.105:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0627/191540.123:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0627/191540.123:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0627/191540.123:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0627/191540.130:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000001A30020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0627/191540.130:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0627/191540.131:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0627/191540.134:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0627/191540.138:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/191540.142:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0627/191540.142:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0627/191540.143:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0627/191542.498:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=H2Z3WVL2h7h6DzJFnMHz6zk5jM
+[0627/191542.536:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=hMZ3WVZJ7RP0sSv1vDZ70ttWvN
+[0627/191542.537:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auD?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=67W3WVFkSPqHF3Bb0S07jGKQlV
+[0627/191542.999:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f211%2f316%2f0%2f875%2fassetFiles%2fimages%2fimages%2fAstraZeneca%2epng&_ordtok=H2Z3WVL2h7h6DzJFnMHz6zk5jM
+[0627/191543.000:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000002%2f785%2f081%2f0%2f31%2fassetFiles%2fimages%2fimages%2fbg%2epng&_ordtok=hMZ3WVZJ7RP0sSv1vDZ70ttWvN
+[0627/191543.000:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://gateway.zscalertwo.net/auT?origurl=https%3A%2F%2Fcdnae1%2evod309%2ecom%2f50fd68b9%2d106b%2d4550%2db5d0%2d12b045f8b184%2f0000000%2f000003%2f083%2f376%2f0%2f3%2fassetFiles%2fimages%2fstyle%2fbanner%2ejpg&_ordtok=67W3WVFkSPqHF3Bb0S07jGKQlV
+[0627/191543.212:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", 000001A3001293E8:LayoutNGBlockFlow DIV class='logo' moved from 879,888.203 120x20.7969 to 983,888.703 16x21.7969 (visible from 879,888 120x21 to 983,889 16x22)
+[0627/191543.212:VERBOSE1:layout_shift_tracker.cc(545)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", viewport was 0.194702% impacted with distance fraction 0.08125 and subframe weighting factor 1
+[0627/191543.212:VERBOSE1:layout_shift_tracker.cc(627)] in "http://ironinternalfraqbc8wsa1xvpfvjcrg.com/", layout shift of 0.000158195 reported; cumulative score is 0.000158195
+[0627/191543.213:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0627/191543.381:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0627/191543.485:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 1 samples, mean = 20.0 (flags = 0x1)
+0   ... 
+16  -O                                                                        (1 = 100.0%) {0.0%}
+21  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+
+[0628/170211.112:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000001C0000D4600: set chrome proxy config service to 000001C0000BC380
+[0628/170211.129:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0628/170211.129:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000001C00004D680])
+[0628/170211.129:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0628/170211.129:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000001C00004D680]))
+[0628/170211.148:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0628/170211.208:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0628/170211.319:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0628/170212.991:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000001C0000D7300: set chrome proxy config service to 000001C0001D8280
+[0628/170213.039:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://pac.zscalertwo.net/astrazeneca.com/AZProxy.pac
+[0628/170213.127:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0628/170213.143:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0628/170213.229:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0628/170213.230:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0628/170213.230:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0628/170213.264:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000007AF0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0628/170213.265:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0628/170213.265:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0628/170213.287:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+[0628/170213.288:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg
+[0628/170213.290:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0628/170213.295:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png
+[0628/170213.295:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png
+[0628/170215.427:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0628/170215.864:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0628/170216.003:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 1 samples, mean = 20.0 (flags = 0x1)
+0   ... 
+16  -O                                                                        (1 = 100.0%) {0.0%}
+21  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+

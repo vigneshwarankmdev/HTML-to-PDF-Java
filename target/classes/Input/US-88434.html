@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+
+<style type="text/css"> 
+.container {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: Arial;
+}
+.common {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial;
+    font-size: 100%;
+}
+body {
+    line-height: 1.3;
+    margin: 0;
+    font-family: Arial;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+p,h1,h2,h3,h4,h5,h6 {
+	margin: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+.main_column {
+    width: 100%;
+    height: auto;
+}
+.banner img {
+	width: 100%;
+	height: auto;
+}
+.intro_text {
+	padding: 10px 0 18px 25px;
+	font-size: 10px;
+	line-height: 1.1; 
+}
+.intro_text ul {
+	padding: 0;
+	margin: 0;
+	padding-top: 2px;
+	padding-left: 11px;
+}
+.intro_text ul li {
+	padding-bottom: 2px;
+	position: relative;
+	padding-left: 10px;
+	font-size: 10px;
+}
+.intro_text ul li::before {
+	content: "•";
+    color: #03ae9c!important;
+    position: absolute;
+    left: 0px;
+}
+.token_place {
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+}
+.Title{
+	width: 90% !important;
+	margin: auto !important;
+}
+.approved {
+	font-size: 20px !important;
+	line-height: 26px;
+	text-align: center !important; 
+	margin-bottom: 10px;
+	color:#00af9a !important;
+	font-weight: bold;
+}
+.list {
+	font-size: 20px;
+	line-height: 26px;
+	text-align: center;
+	font-weight: bold;
+	color:#bb0e82 !important;
+}
+.token_column {
+	width: 100%;
+    height: auto;
+    display: flex;
+	font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-around;
+    padding: 15px 40px;
+}
+.token_left,.token_right {
+	text-align: center;
+}
+.LOCATION_heading,.rspv .heading
+{
+	font-size: 17px !important;
+	line-height: 1.2;
+	font-weight: 600;
+}
+.line{
+	height: 1px !important;
+	width: 70%;
+	background-color: #00af9a !important; 
+	margin: auto;
+}
+.rspv {
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 0px;
+	margin: 0px;
+}
+.rspv span {
+	font-size: 17px;
+	font-weight: bold;
+}
+.content_column {
+	width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    line-height: 13px;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+.column_one {
+	width: 33%;
+	padding: 0 5px;
+}
+.footer {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	padding: 15px 25px !important;
+	text-align: center;
+}
+.title1 {
+	font-size: 13px;
+	color:#bb0e82 !important;
+	font-weight: bold;
+	line-height:16px; 
+	display: block;
+	padding-bottom: 4px !important;
+}
+.title {
+	font-size: 12px;
+	color:#bb0e82 !important;
+	font-family: Arial;
+	text-align: left !important;
+	line-height: 19px;
+	font-weight: bold !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.column_one ul {
+	padding-left: 0;
+	margin: 0px !important;
+}
+.column_one ul li {
+	position: relative;
+	padding-left: 10px;
+	padding-bottom: 4px !important;
+}
+.column_one ul li::before {
+    content: "•";
+    color: #000000;
+    position: absolute;
+    left: 0px;
+}
+.list_small {
+	font-size: 15px;
+	line-height: 18px;
+	color:#bb0e82 !important;
+}
+.text1 {
+	color:#bb0e82 !important;
+	font-weight: normal!important;
+	font-size: 14px;
+}
+.f_text {
+	font-size: 7px;
+	line-height: 13px;
+	text-align: left;
+	padding-top: 13px;
+}
+.footer {
+	display: flex;
+	align-items: center;
+}
+.bg {
+	position: absolute;
+	top: 200px;
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	z-index: -1;
+}
+.bg img {
+	margin: auto;
+	display: table;
+}
+p { 
+	padding-bottom: 5px !important;
+	font-size: 11px;
+	line-height: 1.2;
+}
+li {
+	font-size: 11px;
+	line-height: 1.2;
+}
+h4 {
+	margin: 0;
+	padding-bottom: 5px;
+	font-size: 12px;
+}
+.rspv1 {
+	font-size: 18px;
+	text-align: center;
+	padding-bottom: 2px;
+	line-height: 1.2;
+}
+.Details{
+	padding: 0px 25px !important;
+}
+@media only screen and (max-width: 1099px) {
+.container {
+    width: 100%;
+}
+
+}
+@page 
+{
+	margin: 0;
+}
+</style>
+</head>
+<body> 
+	<div class="container"> 
+  <div class="main_column">
+   <div class="banner">
+   	<img src="https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000003/083/376/0/3/assetFiles/images/style/banner.jpg" width="100%">
+   </div>
+   <div class="bg"><img src="https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/785/081/0/31/assetFiles/images/images/bg.png" width="100%"></div>
+ 	<div class="intro_text">
+		FASENRA is indicated for the add-on maintenance treatment of patients with severe asthma aged 6 years and older, <br>and with an eosinophilic phenotype.
+ 		<ul>
+ 			<li style="padding-top: 1px !important;">FASENRA is not indicated for treatment of other eosinophilic conditions</li>
+ 			<li>FASENRA is not indicated for the relief of acute bronchospasm or status asthmaticus</li>
+			
+ 		</ul>
+ 	</div>
+ 	<div class="token_place">
+ 		<div class="Details">
+			<div class="Title">
+				<div class="approved">EM_Event_vod__c.Topic_vod__r.Approved_Name_AZ__c</div>
+			</div>
+			 <div class="token_list">
+				 <div class="list">EM_Event_vod__c.Formatted_date_AZ_US__c</div>
+				 <div class="list">EM_Event_vod__c.Invitation_Time_AZ_US__c –  EM_Event_vod__c.Invitation_End_Time_AZ_US__c</div>
+				 <div class="list">EM_Event_vod__c.Invitation_Time_Zone_AZ_US__c</div>
+			 </div>
+			 <div class="token_column">
+				 <div class="token_left">
+					 <div class="LOCATION_heading" style="padding-bottom: 5px;">LOCATION</div>
+					 <div class="list_small">EM_Event_vod__c.Location_Name_AZ__c</div>
+					 <div class="list_small">EM_Event_vod__c.Location_Address_vod__c</div>
+					 <div class="list_small">EM_Event_vod__c.Location_City_AZ__c, EM_Event_vod__c.Location_State_AZ__c EM_Event_vod__c.Location_Zip_AZ__c</div> 
+				 </div>
+				 <div class="token_right">
+					<div class="LOCATION_heading" style="padding-bottom: 5px;">PRESENTED BY</div> 
+					 <div class="list_small">EM_Event_vod__c.Speaker_First_Name_AZ_US__c EM_Event_vod__c.Speaker_Last_Name_AZ_US__c</div>
+					 <div class="list_small">EM_Event_vod__c.Speaker_Title_AZ_US__c<O></div>
+					 <div class="list_small">EM_Event_vod__c.Speaker_Institution_AZ_US__c<O></div>
+				 </div>
+			 </div>
+			 <div class="rspv" style="padding-bottom: 5px !important;padding-top: 5px !important;"><span class="heading">RSVP IS REQUIRED BY:</span> <span class="text1" id="rsvp_date" style="font-size: 15px;">2024-06-27 00:00:00</span></div>
+			 <div class="line"></div>
+			 <div class="rspv"><span>To find out more information or to register, please contact</span></div>
+			 <div class="rspv1"><span class="text1" style="font-size: 15px;">EM_Event_vod__c.RSVP_Name_AZ__c</span>  |  <span class="text1" style="font-size: 16px;">EM_Event_vod__c.RSVP_Phone_AZ__c</span></div>
+			 <div class="line"></div>
+		</div>
+		
+ 		<div class="content_column">
+ 			<div class="column_one">
+ 				<div class="title1">IMPORTANT SAFETY INFORMATION </div>
+				<div class="title" style="text-align: left !important;">CONTRAINDICATIONS</div>
+ 				<p>Known hypersensitivity to benralizumab or excipients.</p>
+ 				<div class="title" style="text-align: left !important;">WARNINGS AND PRECAUTIONS</div>
+ 				<p><b>Hypersensitivity Reactions</b><br>
+Hypersensitivity reactions (eg, anaphylaxis, angioedema, urticaria, rash) have occurred after administration of FASENRA. These reactions generally occur within hours of administration, but in some instances have a delayed onset (ie, days). Discontinue in the event of a hypersensitivity reaction.</p>
+<p><b>Acute Asthma Symptoms or Deteriorating
+Disease</b><br>FASENRA should not be used to treat acute asthma symptoms, acute exacerbations, or acute bronchospasm.</p>
+<p><b>Reduction of Corticosteroid Dosage</b><br>
+Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of therapy with FASENRA. Reductions in corticosteroid dose, if appropriate, should be gradual and performed under the direct supervision of a physician.
+Reduction in corticosteroid dose may be associated with systemic withdrawal symptoms and/or unmask </p>
+ 			</div>
+ 			<div class="column_one">
+ 				<p>conditions previously suppressed by systemic  corticosteroid therapy.</p>
+ 				<p><b>Parasitic (Helminth) Infection</b><br>
+It is unknown if FASENRA will influence a patient's response against helminth infections. Treat patients with pre-existing helminth infections before initiating therapy with FASENRA. If patients become infected while receiving FASENRA and do not respond to anti-helminth treatment, discontinue
+FASENRA until infection resolves.</p>
+<div class="title" style="text-align: left !important;">ADVERSE REACTIONS</div>
+<p>The most common adverse reactions (incidence
+≥ 5%) include headache and pharyngitis.</p>
+<p>Injection site reactions (eg, pain, erythema, pruritus, papule) occurred at a rate of 2.2% in patients treated with FASENRA compared with 1.9% in patients treated with placebo.</p>
+<div class="title" style="text-align: left !important;">USE IN SPECIFIC POPULATIONS</div>
+<p>A pregnancy exposure registry monitors pregnancy outcomes in women exposed to FASENRA during pregnancy. To enroll call <span style="display: inline-block;">1-877-311-8972</span>  or visit
+www.mothertobaby.org/fasenra.</p>
+<p>The data on pregnancy exposure from the clinical trials are insufficient to inform on drug-associated risk. Monoclonal antibodies such as benralizumab </p>
+ 			</div>
+<div class="column_one">
+	<p>are transported across the placenta during the third trimester of pregnancy; therefore, potential effects on a fetus are likely to be greater during the third trimester of pregnancy.</p>
+	<div class="title" style="text-align: left !important;">INDICATION</div>
+	<p style="padding-bottom: 3px !important;">FASENRA is indicated for the add-on maintenance treatment of patients with severe asthma aged 6 years and older, and with an eosinophilic phenotype.</p>
+	<ul>
+ 			<li>FASENRA is not indicated for treatment of other eosinophilic conditions</li>
+ 			<li>FASENRA is not indicated for the relief of acute bronchospasm or status asthmaticus</li>
+ 		</ul>
+ 		<p style="padding-top: 10px !important;padding-bottom: 10px !important;"><b>Please read accompanying full Prescribing Information, including Patient Information.</b></p>
+ 		<p style="padding-bottom: 10px !important;"><i>You are encouraged to report negative side effects of AstraZeneca prescription drugs by calling 1-800-236-9933. If you prefer to report these to the FDA, either visit www.FDA.gov/medwatch or call <span style="display: inline-block;">1-800-FDA-1088</span>.</i></p>
+		<p>AstraZeneca is committed to conducting business with the highest standards of integrity and professionalism.
+If you have any comments that could improve the delivery of our promotional education programs, please contact AstraZeneca at 1-800-236-9933.</p>
+</div>
+ 		</div> 
+ 		</div>
+ 		<div class="footer">
+ 			<div class="f_text">FASENRA and FASENRA Pen are registered trademarks of the AstraZeneca group of companies. ©2024 AstraZeneca. All rights reserved. US-88434 4/24</div>
+ 			<div class="logo">
+ 				<img src="https://cdnae1.vod309.com/50fd68b9-106b-4550-b5d0-12b045f8b184/0000000/000002/211/316/0/875/assetFiles/images/images/AstraZeneca.png" width="120">
+ 			</div>
+ 		</div>
+ 	</div>
+</div>
+</div>
+<script>
+	var searchThis = document.getElementById('rsvp_date').innerHTML;
+	 var givenyear = searchThis.substring(0, 4);
+	var givenmonth = searchThis.substring(5, 7);
+	var givendate = searchThis.substring(8, 10);
+	let date = new Date(givenyear,givenmonth-1,givendate);
+	let day = date.toLocaleString('en-us', {weekday: 'long'});
+	let month = date.toLocaleString('default', { month: 'long' });
+	document.getElementById("rsvp_date").innerHTML= day+", "+month+" "+givendate+", "+givenyear;
+</script>
+</body>
+</html>
+	
